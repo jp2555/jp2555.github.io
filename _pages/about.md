@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I’m an Alexander von Humboldt Postdoctoral Fellow at Karlsruhe Institute of Technology (KIT). My research focus on developing algorithms in the intersection between AI and the Physical Sciences, with thrusts in High Energy Physics, Astrophysics, Nuclear Physics, and Fluid Flows.
+Welcome! I am an Alexander von Humboldt Postdoctoral Fellow at Karlsruhe Institute of Technology (KIT). My research focus on developing algorithms in the intersection between AI and the Physical Sciences, with thrusts in High Energy Physics, Astrophysics, Nuclear Physics, and Fluid Flows.
 
 If you are a student looking for thesis topics, send me an introduction!
 
