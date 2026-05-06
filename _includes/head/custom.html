@@ -1,8 +1,6 @@
 {% include base_path %}
 
-<!-- Faded Alps background image, visible in the side gutters on desktop.
-     The white-gradient layer sits on top of the photo and fades it.
-     Lower the 0.75 alpha values to make the photo more visible. -->
+<!-- Faded Alps background image, visible in the side gutters on desktop. -->
 <style>
   body {
     background-image:
@@ -13,8 +11,15 @@
     background-attachment: fixed;
     background-repeat: no-repeat;
   }
-  /* Suppress on narrow screens where the gutters disappear anyway */
   @media (max-width: 768px) {
     body { background-image: none; }
+  }
+
+  /* Make the central content column near-opaque so text is easy to read.
+     Adjust the 0.92 alpha to taste: closer to 1.0 = more opaque. */
+  .page__inner-wrap {
+    background-color: rgba(255, 255, 255, 0.92);
+    padding: 1em 1.5em;
+    border-radius: 4px;
   }
 </style>
