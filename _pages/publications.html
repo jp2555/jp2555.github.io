@@ -9,6 +9,10 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+{% if site.author.inspire-hep %}
+  <div class="wordwrap">As a member of the ATLAS Collaboration, I am a coauthor on a large number of peer-reviewed publications. The full list is available on my <a href="{{site.author.inspire-hep}}">INSPIRE-HEP profile</a>. Below I highlight only the publications to which I have made major contributions.</div>
+{% endif %}
+
 {% include base_path %}
 
 <!-- New style rendering if publication categories are defined -->
@@ -32,5 +36,4 @@ author_profile: true
   {% endfor %}
 {% endif %}
 
-
-
+<p><small><sup>&dagger;</sup> = Corresponding author</small></p>
