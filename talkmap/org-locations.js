@@ -20,9 +20,9 @@ var addressPoints = [
     -72.9250518
   ],
   [
-    "Simulation-based Inference for Particle Physics<br />AI@LHC 2026; Peking University",
-    40.1750746,
-    116.1593872
+    "Simulation-based Inference for Particle Physics<br />AI@LHC 2026; Beijing, China",
+    39.9057136,
+    116.3912972
   ],
   [
     "Improving and Extending Precision Jet Substructure Measurements with Deep Learning Techniques<br />LBNL High Energy Physics Seminar; Berkeley, CA, USA",
