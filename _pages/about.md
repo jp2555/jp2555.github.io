@@ -21,7 +21,7 @@ Recent Publications
 ======
 
 <img style="float: right;padding: 10px 10px 10px 10px;" src="http://jp2555.github.io/images/tf.jpg" width=500>
-[Measurement of jet track functions in pp collisions at $\sqrt{s}=13$ TeV with the ATLAS detector](https://arxiv.org/abs/2502.02062)
+[Measurement of jet track functions in pp collisions at $$\sqrt{s}=13$$ TeV with the ATLAS detector](https://arxiv.org/abs/2502.02062)
 ------
 Foundation models build an effective representations of data that can be deployed on diverse downstream tasks. Previous research developed the OmniLearned foundation model for collider physics and showed that it could significantly advance discovery potential across collider experiments. In this paper we go beyond collider physics and show that Foundation Models trained on collider data can help improve the prediction of cosmological parameters and to predict halo and galaxy velocities in different datasets from CosmoBench. This is the first time a collider physics model is shown to generalize across scientific fields. 
 
