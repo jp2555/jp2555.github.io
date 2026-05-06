@@ -3,7 +3,7 @@ title: "Particle Physics of the Dark Sector"
 collection: publications
 category: reviews
 permalink: /publication/2022-11-01-dark-sector
-excerpt: 'A review of the theoretical landscape and experimental search programs for dark sector particles. *(Part of doctoral dissertation work.)*'
+excerpt: 'A review of the theoretical landscape and experimental search programs for dark sector particles. <em>(Part of doctoral dissertation work.)</em>'
 date: 2022-11-01
 venue: 'Symmetry'
 paperurl: 'https://www.mdpi.com/2073-8994/14/11/2238'
