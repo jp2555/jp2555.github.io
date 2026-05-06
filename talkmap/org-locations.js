@@ -20,9 +20,9 @@ var addressPoints = [
     -72.9250518
   ],
   [
-    "Simulation-based Inference for Particle Physics<br />AI@LHC 2026; Beijing, China",
-    39.9057136,
-    116.3912972
+    "Simulation-based Inference for Particle Physics<br />AI@LHC 2026; Peking University",
+    40.1750746,
+    116.1593872
   ],
   [
     "Improving and Extending Precision Jet Substructure Measurements with Deep Learning Techniques<br />LBNL High Energy Physics Seminar; Berkeley, CA, USA",
@@ -31,12 +31,12 @@ var addressPoints = [
   ],
   [
     "Enabling Specialized Unfolding Methods with Modern Deep Learning Techniques<br />France-Berkeley PHYSTAT Workshop; Paris, France",
-    48.8588897,
-    2.320041
+    48.8534951,
+    2.3483915
   ],
   [
     "Measurement of Jet Track Functions with OmniFold-based Binning Corrections with the ATLAS Experiment<br />ML4Jets 2024; Paris, France",
-    48.8588897,
-    2.320041
+    48.8534951,
+    2.3483915
   ]
 ];
