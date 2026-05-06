@@ -1,0 +1,20 @@
+{% include base_path %}
+
+<!-- Faded Alps background image, visible in the side gutters on desktop.
+     The white-gradient layer sits on top of the photo and fades it.
+     Lower the 0.75 alpha values to make the photo more visible. -->
+<style>
+  body {
+    background-image:
+      linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.75)),
+      url('{{ base_path }}/images/bkg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+  }
+  /* Suppress on narrow screens where the gutters disappear anyway */
+  @media (max-width: 768px) {
+    body { background-image: none; }
+  }
+</style>
